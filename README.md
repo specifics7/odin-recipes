@@ -1,5 +1,5 @@
 # odin-recipes
-This is a simple website using only HTML, as part of the The Odin Project curriculum.
+This is a simple website using only HTML and CSS, as part of the The Odin Project curriculum.
 
 Credit to the recipes used for this project: 
 [Lisa's Favorite Carne Asada Marinade](https://www.allrecipes.com/recipe/186691/lisas-favorite-carne-asada-marinade/)
